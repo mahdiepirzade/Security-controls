@@ -1,0 +1,8 @@
+CIS Control 1 focuses on maintaining an accurate, up-to-date inventory of all enterprise assets, including computers, servers, network devices, mobile devices, IoT devices, and cloud resources. Its goal is to ensure that every asset connected to the organization's infrastructure is identified, monitored, and protected.
+
+Why is this control critical?
+Asset visibility: Organizations cannot effectively protect assets they do not know exist.
+Attack surface reduction: Unknown or unmanaged devices may have outdated software, missing patches, or insecure configurations.
+Threat detection and incident response: An accurate inventory helps security teams identify affected systems, investigate incidents, and restore operations.
+Protection of critical data: Identifying assets that store or process sensitive business data helps organizations apply appropriate security controls.
+Prevention of unauthorized access: Temporary, test, guest, and other unmanaged systems must be identified or isolated to prevent them from becoming entry points for attackers.
